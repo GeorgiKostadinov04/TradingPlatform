@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Trading platform\\TradingPlatform\\TradingPlatform\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TradingPlatform.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TradingPlatform.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Trading platform\\TradingPlatform\\TradingPlatform\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Trading platform\\TradingPlatform\\TradingPlatform\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Trading platform\\TradingPlatform\\TradingPlatform\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Trading platform\\TradingPlatform\\TradingPlatform\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TradingPlatform.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TradingPlatform.props",
+      "PackagePath": "build\\TradingPlatform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TradingPlatform.props",
+      "PackagePath": "buildMultiTargeting\\TradingPlatform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TradingPlatform.props",
+      "PackagePath": "buildTransitive\\TradingPlatform.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
